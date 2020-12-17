@@ -5,7 +5,7 @@
 		"factoryName": {
 			"value": "dssdemoadf1"
 		},
-		"AzureBlobStorage1_connectionString": {
+		"AzureSqlDatabase1_connectionString": {
 			"value": ""
 		}
 	}
